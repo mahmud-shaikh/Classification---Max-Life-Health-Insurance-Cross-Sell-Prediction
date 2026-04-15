@@ -68,4 +68,7 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 * Test ensemble stacking or gradient boosting
 * Incorporate customer engagement and claim history data
 
+Author
+Mahmud Shaikh
+AI Specialist | Data Analyst
 ---
